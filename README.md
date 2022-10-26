@@ -5,10 +5,13 @@
 npm install
 ```
 
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+### Error permission deneged in case Compiles
+chmod -R a+x node_modules
 
 ### Compiles and minifies for production
 ```
